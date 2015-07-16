@@ -2,7 +2,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+<<<<<<< HEAD
 // Другой тестовйы коммент
+=======
+// Тестовый коммент
+>>>>>>> 65b989dfc759140fa973655da83371b76326cc8c
 
 namespace ConsoleApplication
 {
