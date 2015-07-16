@@ -2,6 +2,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+// Другой тестовйы коммент
+
 namespace ConsoleApplication
 {
   /// <summary>
